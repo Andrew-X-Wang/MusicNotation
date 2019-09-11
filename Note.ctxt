@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Note
+comment0.text=\r\n\ Stores\ information\ about\ the\ note\r\n\ \r\n\ @author\ Andrew\ Wang\r\n\ @version\ Not\ too\ big\ of\ a\ \#\r\n
+comment1.params=kn\ nl
+comment1.target=Note(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Note,\ called\ by\ measureButton\ and\ measureButtonPanel\ to\ make\ the\ image\ representing\ what\ note\ the\ user\ has\ selected\ to\ input\r\n
+comment2.params=nl
+comment2.target=Note(int)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Note,\ called\ by\ MainButtonPanel\ when\ opening\ files\r\n
+comment3.params=kn
+comment3.target=java.lang.String\ keyNumberToNote(int)
+comment3.text=\r\n\ Converts\ the\ number\ on\ the\ piano\ to\ a\ String\ value\ representing\ which\ octave\ it's\ on\ and\ what\ note\ it\ is\r\n\ \r\n\ @param\ -\ int\ kn\ -\ the\ keyNumber\ of\ the\ Note\r\n\ @return\ -\ String\ note\ -\ the\ String\ value\ representing\ the\ Note\r\n
+numComments=4

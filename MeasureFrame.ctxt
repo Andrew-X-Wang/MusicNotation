@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MeasureFrame
+comment0.text=\r\n\ Provides\ the\ frame\ for\ the\ MeasureEditor\r\n\ \r\n\ @author\ Andrew\ Wang\r\n\ @version\ a\ smaller\ number\r\n
+comment1.params=m
+comment1.target=MeasureFrame(Measure)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MeasureFrame\r\n
+numComments=2

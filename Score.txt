@@ -1,0 +1,8 @@
+100
+2
+4
+Instrument:
+/C/Treble/2,60/2,64/2,67/
+Instrument:
+/C/Treble/2,75/2,64/2,67/
+End

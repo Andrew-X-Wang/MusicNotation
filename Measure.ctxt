@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Measure
+comment0.text=\r\n\ Class\ for\ storing\ Measure\ information\r\n\ \r\n\ @author\ Andrew\ Wang\r\n\ @version\ I\ always\ forget\ to\ count\r\n
+comment1.params=xDim\ yDim\ n\ bl\ ml\ ks
+comment1.target=Measure(int,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Measure,\ called\ when\ a\ default\ Instrument\ is\ created\ \ \ \ @TODO\:\ not\ sure\ if\ this\ is\ actually\ useful\ or\ if\ it\ can\ be\ subbed\ for\ the\ other\ one\ everywhere\r\n
+comment2.params=keySig\ clef\ ml\ bl
+comment2.target=Measure(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.text=\r\n\ Alternate\ constructor\ for\ objects\ of\ class\ Measure,\ called\ by\ the\ openFile\ method\ in\ MainButtonPanel\r\n
+comment3.params=c
+comment3.target=java.util.ArrayList\ keySigScore(java.lang.String)
+comment3.text=\r\n\ Sets\ the\ current\ keySicAcc(which\ accidenatals\ are\ to\ be\ painted\ in\ the\ measureEditor)\r\n\ \r\n\ @param\ \ String\ c\ -\ the\ keySig\ of\ this\ Measure\r\n\ @return\ keySigAcc\ -\ this\ Measure's\ keySig\ accidental\ information\r\n\ @TODO\:\ has\ yet\ to\ be\ tested\r\n
+comment4.params=
+comment4.target=void\ edit()
+comment4.text=\r\n\ Calls\ on\ the\ measureFrame,\ which\ then\ opens\ up\ the\ measureEditor\r\n\ \r\n\ @param\ \ \ none\r\n\ @return\ \ none\r\n
+numComments=5

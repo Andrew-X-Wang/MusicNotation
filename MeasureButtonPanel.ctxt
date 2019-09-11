@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MeasureButtonPanel
+comment0.text=\r\n\ Displays\ the\ measure\ editing\ screen,\ where\ eventually\ users\ will\ be\ able\ to\ input\ notes\ by\ clicking\ on\ the\ screen\ with\ the\ desired\ selected\ notes/rests\r\n\ \r\n\ @author\ Andrew\ Wang\r\n\ @version\ limit\ as\ x\ approaches\ infinity\ of\ y\ \=\ x^(1/2)\ \ \ (you\ can\ take\ that\ as\ a\ large\ value,\ or\ that\ it\ doesn't\ exist\ b/c\ I\ didn't\ keep\ count)\r\n
+comment1.params=m
+comment1.target=MeasureButtonPanel(Measure)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MeasureButtonPanel,\ initializes\ all\ of\ the\ menu\ items/\ buttons\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ ActionPerformed\ just\ deals\ with\ what\ happens\ when\ you\ select\ the\ menu\ items\ and\ such\r\n\ \r\n\ @param\ \ ActionEvent\ e\:\ some\ button/\ menuItem\ activity\r\n\ @return\ \ \ \ void\r\n
+numComments=3

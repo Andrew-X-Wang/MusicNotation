@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PlayMidiNote
+comment0.text=\r\n\ Plays\ the\ sounds\!\r\n\ \r\n\ @author\ Andrew\ Wang/\ StackOverFLow\r\n\ @version\ Relatively\ smol\ number\r\n
+comment1.params=keyNumber\ noteLength\ tempo
+comment1.target=void\ playSong(int,\ int,\ int)
+comment1.text=\r\n\ Plays\ the\ note,\ not\ actually\ the\ song,\ so\ a\ little\ misleading\ for\ now\r\n\ \r\n\ @param\ -\ int\ keyNumber\ -\ dictates\ which\ note\ will\ be\ played\r\n\ @param\ -\ int\ noteLength\ -\ dictates\ how\ long\ the\ note\ will\ be\ held\ for\ (how\ long\ Thread.sleep\ will\ be)\r\n\ @param\ -\ int\ tempo\ -\ dictates\ how\ fast\ the\ music\ in\ general\ will\ be,\ so\ basically\ factors\ into\ how\ long\ the\ note\ is\ sustained\ for\r\n\ @return\ \ \ \ void\r\n
+numComments=2

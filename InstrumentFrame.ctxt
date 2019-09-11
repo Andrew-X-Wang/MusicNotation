@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=InstrumentFrame
+comment0.text=\r\n\ Frame\ for\ the\ Instruments.\r\n\r\n\ @author\ Andrew\ Wang\r\n\ @version\ again,\ depends\ on\ whether\ you\ look\ at\ the\ class\ name\ or\ its\ function.\ At\ some\ point\ was\ the\ same\ thing\ as\ MainButtonPanel\r\n
+comment1.params=i\ n
+comment1.target=InstrumentFrame(Instrument,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ InstrumentFrame\r\n
+numComments=2

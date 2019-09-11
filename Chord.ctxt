@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Chord
+comment0.text=\r\n\ Just\ stores\ the\ length\ of\ the\ chord,\ nothing\ bit\r\n\ \r\n\ @author\ Andrew\ Wang\r\n\ @version\ 1.5\r\n
+comment1.params=l
+comment1.target=Chord(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Chord\r\n
+comment2.params=tempo
+comment2.target=void\ play(int)
+comment2.text=\r\n\ Play;\ connects\ with\ the\ PlayMidiNote\ class\ to\ play\ the\ correct\ tones\r\n\ \r\n\ @param\ -\ int\ tempo\ -\ so\ it\ can\ be\ passed\ onto\ PlayMidiNote\r\n\ @return\ \ \ void\r\n
+numComments=3

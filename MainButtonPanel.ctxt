@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MainButtonPanel
+comment0.text=\r\n\ Controls\ the\ highest\ level;\ hopefully\ eventually\ gets\ to\ the\ point\ where\ it\ can\ play\ back\ the\ score,\ add\ Instruments,\ open\ scores\ from\ text\ files,\ and\ write\ scores\ to\ text\ files\r\n\ \r\n\ @author\ Andrew\ Wang\r\n\ @version\ who's\ counting?\r\n
+comment1.params=
+comment1.target=MainButtonPanel()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MainButtonPanel\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ What\ pressing\ each\ button\ does\r\n\ \r\n\ @param\ \ ActionEvent\ e\ \ \ \ Some\ button\ being\ pushed\r\n\ @return\ \ \ \ \ void\r\n
+numComments=3
